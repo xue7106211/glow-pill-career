@@ -1,0 +1,6 @@
+node_modules
+dist
+pages-worker.js
+pages-worker-meta.json
+*.tsbuildinfo
+shots/_raw
